@@ -1,4 +1,3 @@
-# sql_report_pizza_sales
 # 🍕 Pizza Sales Analysis Using SQL
 
 Welcome to my project on analyzing pizza sales data using Structured Query Language (SQL). This project was created to explore sales patterns, customer preferences, and business insights for a fictional pizza restaurant.
@@ -67,7 +66,7 @@ The insights and queries are summarized in a well-structured PowerPoint presenta
 Hi, I’m **Khushi**, a final-year BCA student passionate about data analytics and business insights.  
 I'm learning SQL, Python, and ML, and this project is a step toward building my portfolio for analytics roles.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khushinigam7/)!
 
 ---
 
@@ -75,7 +74,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com)!
 
 For collaboration, queries, or suggestions:
 📧 Email: your-email@example.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
+🔗 LinkedIn: [(https://www.linkedin.com/in/khushinigam7/)]
 
 ---
 
