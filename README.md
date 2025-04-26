@@ -73,7 +73,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khushinig
 ## 📫 How to Reach Me
 
 For collaboration, queries, or suggestions:
-📧 Email: your-email@example.com  
+📧 Email: nigamkhushi125@gmail.com  
 🔗 LinkedIn: [(https://www.linkedin.com/in/khushinigam7/)]
 
 ---
